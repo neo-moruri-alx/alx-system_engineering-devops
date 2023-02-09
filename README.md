@@ -1,3 +1,2 @@
-# alx-system_engineering-devops
-0x00. Shell, basics Bash Projects
-
+#!/bin/bash
+Shelll basics Bash Projects
