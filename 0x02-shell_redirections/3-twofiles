@@ -1,1 +1,2 @@
 #!/bin/bash
+echo '/etc/hosts /etc/passwd'
