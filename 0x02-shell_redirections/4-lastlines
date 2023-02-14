@@ -1,1 +1,2 @@
-tail /etc/passwd
+#!/bin/bash
+echo 'tail /etc/passwd'
